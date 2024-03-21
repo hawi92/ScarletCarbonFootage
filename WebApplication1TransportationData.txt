@@ -1,0 +1,1 @@
+[{"VehicleType":"Car","ID":0,"Distance":342.0,"FuelType":"Gasoline","FuelEfficiency":60.0,"EntryDate":"2024-03-08T02:17:41.1920836-05:00","CarbonEmission":51300.0}]

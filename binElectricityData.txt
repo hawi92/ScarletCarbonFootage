@@ -1,0 +1,1 @@
+{"EnergySource":"Solar","ID":0,"ElectricityUsage":898.0,"EntryDate":"2024-03-07T05:55:13.9561463-05:00"}

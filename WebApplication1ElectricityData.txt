@@ -1,0 +1,1 @@
+[{"EnergySource":"Grid","ID":0,"ElectricityUsage":322.0,"EntryDate":"2024-03-08T02:17:33.9576629-05:00","CarbonEmission":161000.0}]

@@ -1,0 +1,1 @@
+{"VehicleType":"Car","ID":0,"Distance":456.0,"FuelType":"Electric","FuelEfficiency":80.0,"EntryDate":"2024-03-07T05:54:58.5366231-05:00"}
